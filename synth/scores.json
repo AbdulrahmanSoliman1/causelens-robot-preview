@@ -1,0 +1,2012 @@
+[
+ {
+  "key": "electrical_02_blocked__causal.png",
+  "scenario": "electrical_02",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_02_blocked__plain.png",
+  "scenario": "electrical_02",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_02_blocked__rewrite.png",
+  "scenario": "electrical_02",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_02_enabled__causal.png",
+  "scenario": "electrical_02",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_02_enabled__plain.png",
+  "scenario": "electrical_02",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_02_enabled__rewrite.png",
+  "scenario": "electrical_02",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_05_blocked__causal.png",
+  "scenario": "electrical_05",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_05_blocked__plain.png",
+  "scenario": "electrical_05",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_05_blocked__rewrite.png",
+  "scenario": "electrical_05",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_05_enabled__causal.png",
+  "scenario": "electrical_05",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_05_enabled__plain.png",
+  "scenario": "electrical_05",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_05_enabled__rewrite.png",
+  "scenario": "electrical_05",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_07_blocked__causal.png",
+  "scenario": "electrical_07",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_07_blocked__plain.png",
+  "scenario": "electrical_07",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_07_blocked__rewrite.png",
+  "scenario": "electrical_07",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_07_enabled__causal.png",
+  "scenario": "electrical_07",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_07_enabled__plain.png",
+  "scenario": "electrical_07",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_07_enabled__rewrite.png",
+  "scenario": "electrical_07",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_11_blocked__causal.png",
+  "scenario": "electrical_11",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_11_blocked__plain.png",
+  "scenario": "electrical_11",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_11_blocked__rewrite.png",
+  "scenario": "electrical_11",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_11_enabled__causal.png",
+  "scenario": "electrical_11",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_11_enabled__plain.png",
+  "scenario": "electrical_11",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_11_enabled__rewrite.png",
+  "scenario": "electrical_11",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_13_blocked__causal.png",
+  "scenario": "electrical_13",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_13_blocked__plain.png",
+  "scenario": "electrical_13",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_13_blocked__rewrite.png",
+  "scenario": "electrical_13",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_13_enabled__causal.png",
+  "scenario": "electrical_13",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_13_enabled__plain.png",
+  "scenario": "electrical_13",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_13_enabled__rewrite.png",
+  "scenario": "electrical_13",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_14_blocked__causal.png",
+  "scenario": "electrical_14",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_14_blocked__plain.png",
+  "scenario": "electrical_14",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_14_blocked__rewrite.png",
+  "scenario": "electrical_14",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_14_enabled__causal.png",
+  "scenario": "electrical_14",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_14_enabled__plain.png",
+  "scenario": "electrical_14",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_14_enabled__rewrite.png",
+  "scenario": "electrical_14",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_16_blocked__causal.png",
+  "scenario": "electrical_16",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_16_blocked__plain.png",
+  "scenario": "electrical_16",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_16_blocked__rewrite.png",
+  "scenario": "electrical_16",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_16_enabled__causal.png",
+  "scenario": "electrical_16",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_16_enabled__plain.png",
+  "scenario": "electrical_16",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_16_enabled__rewrite.png",
+  "scenario": "electrical_16",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_17_blocked__causal.png",
+  "scenario": "electrical_17",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_17_blocked__plain.png",
+  "scenario": "electrical_17",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_17_blocked__rewrite.png",
+  "scenario": "electrical_17",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_17_enabled__causal.png",
+  "scenario": "electrical_17",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_17_enabled__plain.png",
+  "scenario": "electrical_17",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_17_enabled__rewrite.png",
+  "scenario": "electrical_17",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_20_blocked__causal.png",
+  "scenario": "electrical_20",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_20_blocked__plain.png",
+  "scenario": "electrical_20",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_20_blocked__rewrite.png",
+  "scenario": "electrical_20",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_20_enabled__plain.png",
+  "scenario": "electrical_20",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_20_enabled__rewrite.png",
+  "scenario": "electrical_20",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "electrical_22_blocked__causal.png",
+  "scenario": "electrical_22",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_22_blocked__plain.png",
+  "scenario": "electrical_22",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_22_blocked__rewrite.png",
+  "scenario": "electrical_22",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "electrical_22_enabled__causal.png",
+  "scenario": "electrical_22",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_22_enabled__plain.png",
+  "scenario": "electrical_22",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "electrical_22_enabled__rewrite.png",
+  "scenario": "electrical_22",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "electrical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_05_blocked__causal.png",
+  "scenario": "heat_05",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_05_blocked__plain.png",
+  "scenario": "heat_05",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_05_blocked__rewrite.png",
+  "scenario": "heat_05",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_05_enabled__causal.png",
+  "scenario": "heat_05",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_05_enabled__plain.png",
+  "scenario": "heat_05",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_05_enabled__rewrite.png",
+  "scenario": "heat_05",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_08_blocked__causal.png",
+  "scenario": "heat_08",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_08_blocked__plain.png",
+  "scenario": "heat_08",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_08_blocked__rewrite.png",
+  "scenario": "heat_08",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_08_enabled__causal.png",
+  "scenario": "heat_08",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_08_enabled__plain.png",
+  "scenario": "heat_08",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_08_enabled__rewrite.png",
+  "scenario": "heat_08",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_10_blocked__causal.png",
+  "scenario": "heat_10",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "heat_10_blocked__plain.png",
+  "scenario": "heat_10",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "heat_10_blocked__rewrite.png",
+  "scenario": "heat_10",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "heat_10_enabled__causal.png",
+  "scenario": "heat_10",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_10_enabled__plain.png",
+  "scenario": "heat_10",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_10_enabled__rewrite.png",
+  "scenario": "heat_10",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_11_blocked__causal.png",
+  "scenario": "heat_11",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_11_blocked__plain.png",
+  "scenario": "heat_11",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_11_blocked__rewrite.png",
+  "scenario": "heat_11",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_11_enabled__causal.png",
+  "scenario": "heat_11",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_11_enabled__plain.png",
+  "scenario": "heat_11",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_11_enabled__rewrite.png",
+  "scenario": "heat_11",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_12_blocked__causal.png",
+  "scenario": "heat_12",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_12_blocked__plain.png",
+  "scenario": "heat_12",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_12_blocked__rewrite.png",
+  "scenario": "heat_12",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_12_enabled__causal.png",
+  "scenario": "heat_12",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_12_enabled__plain.png",
+  "scenario": "heat_12",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_12_enabled__rewrite.png",
+  "scenario": "heat_12",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_14_blocked__causal.png",
+  "scenario": "heat_14",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "heat_14_blocked__plain.png",
+  "scenario": "heat_14",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "heat_14_blocked__rewrite.png",
+  "scenario": "heat_14",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_14_enabled__causal.png",
+  "scenario": "heat_14",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_14_enabled__plain.png",
+  "scenario": "heat_14",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_14_enabled__rewrite.png",
+  "scenario": "heat_14",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_15_blocked__causal.png",
+  "scenario": "heat_15",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_15_blocked__plain.png",
+  "scenario": "heat_15",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_15_blocked__rewrite.png",
+  "scenario": "heat_15",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "heat_15_enabled__causal.png",
+  "scenario": "heat_15",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_15_enabled__plain.png",
+  "scenario": "heat_15",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "heat_15_enabled__rewrite.png",
+  "scenario": "heat_15",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "heat",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_01_blocked__causal.png",
+  "scenario": "liquid_01",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_01_blocked__plain.png",
+  "scenario": "liquid_01",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_01_blocked__rewrite.png",
+  "scenario": "liquid_01",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_01_enabled__causal.png",
+  "scenario": "liquid_01",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "liquid_01_enabled__plain.png",
+  "scenario": "liquid_01",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_01_enabled__rewrite.png",
+  "scenario": "liquid_01",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "liquid_02_blocked__causal.png",
+  "scenario": "liquid_02",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_02_blocked__plain.png",
+  "scenario": "liquid_02",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_02_blocked__rewrite.png",
+  "scenario": "liquid_02",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_02_enabled__causal.png",
+  "scenario": "liquid_02",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_02_enabled__plain.png",
+  "scenario": "liquid_02",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_02_enabled__rewrite.png",
+  "scenario": "liquid_02",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_03_blocked__causal.png",
+  "scenario": "liquid_03",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_03_blocked__plain.png",
+  "scenario": "liquid_03",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_03_blocked__rewrite.png",
+  "scenario": "liquid_03",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_03_enabled__causal.png",
+  "scenario": "liquid_03",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_03_enabled__plain.png",
+  "scenario": "liquid_03",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_03_enabled__rewrite.png",
+  "scenario": "liquid_03",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_04_blocked__causal.png",
+  "scenario": "liquid_04",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_04_blocked__plain.png",
+  "scenario": "liquid_04",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_04_blocked__rewrite.png",
+  "scenario": "liquid_04",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_04_enabled__causal.png",
+  "scenario": "liquid_04",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_04_enabled__plain.png",
+  "scenario": "liquid_04",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_04_enabled__rewrite.png",
+  "scenario": "liquid_04",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_06_blocked__causal.png",
+  "scenario": "liquid_06",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_06_blocked__plain.png",
+  "scenario": "liquid_06",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_06_blocked__rewrite.png",
+  "scenario": "liquid_06",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_06_enabled__causal.png",
+  "scenario": "liquid_06",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_06_enabled__plain.png",
+  "scenario": "liquid_06",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_06_enabled__rewrite.png",
+  "scenario": "liquid_06",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "liquid_07_blocked__causal.png",
+  "scenario": "liquid_07",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_07_blocked__plain.png",
+  "scenario": "liquid_07",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_07_blocked__rewrite.png",
+  "scenario": "liquid_07",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_07_enabled__causal.png",
+  "scenario": "liquid_07",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_07_enabled__plain.png",
+  "scenario": "liquid_07",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_07_enabled__rewrite.png",
+  "scenario": "liquid_07",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_09_blocked__causal.png",
+  "scenario": "liquid_09",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_09_blocked__plain.png",
+  "scenario": "liquid_09",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_09_blocked__rewrite.png",
+  "scenario": "liquid_09",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "liquid_09_enabled__causal.png",
+  "scenario": "liquid_09",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_09_enabled__plain.png",
+  "scenario": "liquid_09",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_09_enabled__rewrite.png",
+  "scenario": "liquid_09",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_10_blocked__plain.png",
+  "scenario": "liquid_10",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_10_blocked__rewrite.png",
+  "scenario": "liquid_10",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_10_enabled__causal.png",
+  "scenario": "liquid_10",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_10_enabled__plain.png",
+  "scenario": "liquid_10",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_11_blocked__causal.png",
+  "scenario": "liquid_11",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "liquid_11_blocked__plain.png",
+  "scenario": "liquid_11",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_11_blocked__rewrite.png",
+  "scenario": "liquid_11",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_11_enabled__causal.png",
+  "scenario": "liquid_11",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_11_enabled__plain.png",
+  "scenario": "liquid_11",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "liquid_11_enabled__rewrite.png",
+  "scenario": "liquid_11",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "liquid",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_00_blocked__causal.png",
+  "scenario": "mechanical_00",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_00_blocked__plain.png",
+  "scenario": "mechanical_00",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_00_blocked__rewrite.png",
+  "scenario": "mechanical_00",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_00_enabled__causal.png",
+  "scenario": "mechanical_00",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_00_enabled__plain.png",
+  "scenario": "mechanical_00",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_00_enabled__rewrite.png",
+  "scenario": "mechanical_00",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_01_blocked__causal.png",
+  "scenario": "mechanical_01",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_01_blocked__plain.png",
+  "scenario": "mechanical_01",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_01_blocked__rewrite.png",
+  "scenario": "mechanical_01",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_01_enabled__causal.png",
+  "scenario": "mechanical_01",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_01_enabled__plain.png",
+  "scenario": "mechanical_01",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_01_enabled__rewrite.png",
+  "scenario": "mechanical_01",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_03_blocked__causal.png",
+  "scenario": "mechanical_03",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_03_blocked__plain.png",
+  "scenario": "mechanical_03",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_03_blocked__rewrite.png",
+  "scenario": "mechanical_03",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_03_enabled__causal.png",
+  "scenario": "mechanical_03",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_03_enabled__plain.png",
+  "scenario": "mechanical_03",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_03_enabled__rewrite.png",
+  "scenario": "mechanical_03",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_04_blocked__causal.png",
+  "scenario": "mechanical_04",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_04_blocked__plain.png",
+  "scenario": "mechanical_04",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_04_blocked__rewrite.png",
+  "scenario": "mechanical_04",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_04_enabled__causal.png",
+  "scenario": "mechanical_04",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_04_enabled__plain.png",
+  "scenario": "mechanical_04",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_04_enabled__rewrite.png",
+  "scenario": "mechanical_04",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_05_blocked__causal.png",
+  "scenario": "mechanical_05",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_05_blocked__plain.png",
+  "scenario": "mechanical_05",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_05_blocked__rewrite.png",
+  "scenario": "mechanical_05",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_05_enabled__causal.png",
+  "scenario": "mechanical_05",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_05_enabled__plain.png",
+  "scenario": "mechanical_05",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_05_enabled__rewrite.png",
+  "scenario": "mechanical_05",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_09_blocked__causal.png",
+  "scenario": "mechanical_09",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_09_blocked__plain.png",
+  "scenario": "mechanical_09",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_09_blocked__rewrite.png",
+  "scenario": "mechanical_09",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_09_enabled__causal.png",
+  "scenario": "mechanical_09",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_09_enabled__plain.png",
+  "scenario": "mechanical_09",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_09_enabled__rewrite.png",
+  "scenario": "mechanical_09",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_10_blocked__causal.png",
+  "scenario": "mechanical_10",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_10_blocked__plain.png",
+  "scenario": "mechanical_10",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_10_blocked__rewrite.png",
+  "scenario": "mechanical_10",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_10_enabled__causal.png",
+  "scenario": "mechanical_10",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_10_enabled__plain.png",
+  "scenario": "mechanical_10",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_10_enabled__rewrite.png",
+  "scenario": "mechanical_10",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_18_blocked__causal.png",
+  "scenario": "mechanical_18",
+  "state": "blocked",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_18_blocked__plain.png",
+  "scenario": "mechanical_18",
+  "state": "blocked",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": false,
+  "correct": false
+ },
+ {
+  "key": "mechanical_18_blocked__rewrite.png",
+  "scenario": "mechanical_18",
+  "state": "blocked",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": true,
+  "blocker_kept": true,
+  "correct": true
+ },
+ {
+  "key": "mechanical_18_enabled__causal.png",
+  "scenario": "mechanical_18",
+  "state": "enabled",
+  "arm": "causal",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_18_enabled__plain.png",
+  "scenario": "mechanical_18",
+  "state": "enabled",
+  "arm": "plain",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ },
+ {
+  "key": "mechanical_18_enabled__rewrite.png",
+  "scenario": "mechanical_18",
+  "state": "enabled",
+  "arm": "rewrite",
+  "family": "mechanical",
+  "outcome_ok": false,
+  "blocker_kept": true,
+  "correct": false
+ }
+]

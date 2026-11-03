@@ -1,0 +1,602 @@
+{
+ "h000": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h001": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h002": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h003": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h004": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h005": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h006": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h007": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h008": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h009": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h010": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h011": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h012": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h013": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h014": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h015": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h016": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h017": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h018": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h019": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h020": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h021": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h022": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h023": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h024": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h025": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h026": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h027": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h028": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h029": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h030": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h031": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h032": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h033": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h034": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h035": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h036": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h037": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h038": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h039": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h040": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h041": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h042": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h043": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h044": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h045": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h046": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h047": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h048": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h049": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h050": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h051": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h052": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h053": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h054": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h055": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h056": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h057": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h058": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h059": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h060": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h061": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h062": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h063": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h064": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h065": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h066": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h067": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h068": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h069": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h070": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h071": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h072": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h073": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h074": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h075": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h076": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h077": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h078": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h079": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h080": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h081": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h082": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h083": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h084": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h085": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h086": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h087": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h088": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h089": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h090": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h091": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h092": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h093": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h094": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h095": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h096": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h097": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h098": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h099": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h100": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h101": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h102": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h103": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h104": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h105": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h106": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h107": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h108": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h109": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h110": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h111": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h112": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h113": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h114": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h115": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h116": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h117": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h118": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h119": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h120": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h121": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h122": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h123": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h124": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h125": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h126": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h127": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h128": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h129": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h130": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h131": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h132": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h133": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h134": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h135": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h136": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h137": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h138": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h139": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h140": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h141": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h142": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h143": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h144": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h145": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "h146": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "h147": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h148": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "h149": {
+  "outcome": 0,
+  "blocker_kept": 1
+ }
+}

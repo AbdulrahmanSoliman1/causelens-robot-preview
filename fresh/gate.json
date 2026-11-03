@@ -1,0 +1,11 @@
+{"keep": ["fam_00_garden_fountain_pump", "fam_01_patio_string_lights", "fam_05_bird_feeder_fill", "fam_07_compost_bin_emptying",
+          "fam_08_clothesline_hanging", "fam_09_bicycle_chain_ride", "fam_10_robot_vacuum_clean",
+          "nov_00_flat_delivery_tyre", "nov_01_snowy_solar_panel", "nov_02_tangled_kite_string", "nov_03_missing_padlock_key",
+          "nov_04_kinked_garden_hose", "nov_05_frozen_pet_bowl", "nov_06_soilless_seed_tray", "nov_07_empty_printer_tray",
+          "nov_08_empty_bird_feeder", "nov_09_branch_blocked_path", "nov_11_overstuffed_washing_drum"],
+ "dropped": {"fam_02_living_room_fireplace": "blocked photo already has logs in the fireplace",
+             "fam_03_garage_generator_start": "empty vs full fuel can not visible",
+             "fam_04_garden_rain_barrel": "empty vs full barrel not visible",
+             "fam_06_garden_hose_watering": "tap closed vs open not distinguishable",
+             "fam_11_tv_remote_control": "dead vs fresh batteries not visible",
+             "nov_10_muddy_mower_blade": "doubtful that mud stops the blade cutting"}}

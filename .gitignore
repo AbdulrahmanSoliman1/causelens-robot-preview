@@ -1,0 +1,82 @@
+# secrets
+.env
+
+# environments and caches
+__pycache__/
+.venv/
+node_modules/
+*.log
+
+# third-party material: event guide, reference papers, vendored Meta research code, pasted screenshots
+Details – Meta Global AI Developer Hackathon – Cerebral Valley.md
+papers/
+fast_state/vendor/
+Pasted image*.png
+generated-image-1.png
+
+# bulk generated data (images, archives, features, checkpoints); results JSON stays in
+*.zip
+*.npz
+*.pt
+data/images/
+app/uploads/
+mscausal/images/
+chain/src/
+chain/out/
+chain/data/src/
+chain/data/out/
+synth/out/
+proc/runs/
+trouble/preview_runs/
+bench/results/*.png
+bench/review/
+fast_state/checkpoints/
+fast_state/artifacts/
+fast_state/existing_data/
+
+# generated review pages that point at ignored images
+proc/review*.html
+synth/audit.html
+game/src/
+game/out/
+game/sheets/
+fresh/images/
+
+# earlier hackthon experiments, kept locally but not part of the submitted proposal (they remain in git history)
+bench/
+chain/
+data/
+fast_state/
+game/
+lab/
+model/
+mscausal/
+notebooks/
+out/
+proc/
+trouble/
+app/server.py
+app/game.py
+app/lab.py
+app/troubleshoot.py
+app/static/*.html
+!app/static/robot.html
+app/static/chain/
+app/static/game/
+app/static/lab/
+scripts/sam_probe.py
+note.md
+lamp.png
+eye-labels.json
+CLAUDE.md
+.claude/
+video/.build/
+# rendered demo videos and their build files (the video is on YouTube)
+video/cola-demo/
+video/demo/
+video/demo-v2/
+video/submission-demo/
+
+# demo video material (the video itself is on YouTube)
+video/
+SUBMISSION.md

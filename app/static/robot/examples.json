@@ -1,0 +1,121 @@
+[
+ {
+  "id": "electrical_16_blocked",
+  "device": "space heater",
+  "instruction": "Turn on the heater to warm the room",
+  "state": "blocked",
+  "img": "/static/robot/electrical_16_blocked.jpg"
+ },
+ {
+  "id": "liquid_22_blocked",
+  "device": "office water cooler",
+  "instruction": "Dispense water from the cooler tap",
+  "state": "blocked",
+  "img": "/static/robot/liquid_22_blocked.jpg"
+ },
+ {
+  "id": "liquid_22_enabled",
+  "device": "office water cooler",
+  "instruction": "Dispense water from the cooler tap",
+  "state": "enabled",
+  "img": "/static/robot/liquid_22_enabled.jpg"
+ },
+ {
+  "id": "heat_08_blocked",
+  "device": "charcoal grill",
+  "instruction": "Light the grill to start cooking",
+  "state": "blocked",
+  "img": "/static/robot/heat_08_blocked.jpg"
+ },
+ {
+  "id": "heat_08_enabled",
+  "device": "charcoal grill",
+  "instruction": "Light the grill to start cooking",
+  "state": "enabled",
+  "img": "/static/robot/heat_08_enabled.jpg"
+ },
+ {
+  "id": "mechanical_00_blocked",
+  "device": "bicycle",
+  "instruction": "Pedal the bike forward to spin the rear wheel",
+  "state": "blocked",
+  "img": "/static/robot/mechanical_00_blocked.jpg"
+ },
+ {
+  "id": "mechanical_00_enabled",
+  "device": "bicycle",
+  "instruction": "Pedal the bike forward to spin the rear wheel",
+  "state": "enabled",
+  "img": "/static/robot/mechanical_00_enabled.jpg"
+ },
+ {
+  "id": "liquid_04_blocked",
+  "device": "glass honey jar",
+  "instruction": "Drizzle honey from the jar onto toast",
+  "state": "blocked",
+  "img": "/static/robot/liquid_04_blocked.jpg"
+ },
+ {
+  "id": "liquid_04_enabled",
+  "device": "glass honey jar",
+  "instruction": "Drizzle honey from the jar onto toast",
+  "state": "enabled",
+  "img": "/static/robot/liquid_04_enabled.jpg"
+ },
+ {
+  "id": "mechanical_05_blocked",
+  "device": "window blinds",
+  "instruction": "Pull the cord to lift the blinds up",
+  "state": "blocked",
+  "img": "/static/robot/mechanical_05_blocked.jpg"
+ },
+ {
+  "id": "mechanical_05_enabled",
+  "device": "window blinds",
+  "instruction": "Pull the cord to lift the blinds up",
+  "state": "enabled",
+  "img": "/static/robot/mechanical_05_enabled.jpg"
+ },
+ {
+  "id": "nov_00_flat_delivery_tyre_blocked",
+  "device": "garden delivery robot",
+  "instruction": "Drive to the far shed to deliver the parcel",
+  "state": "blocked",
+  "img": "/static/robot/nov_00_flat_delivery_tyre_blocked.jpg"
+ },
+ {
+  "id": "nov_00_flat_delivery_tyre_enabled",
+  "device": "garden delivery robot",
+  "instruction": "Drive to the far shed to deliver the parcel",
+  "state": "enabled",
+  "img": "/static/robot/nov_00_flat_delivery_tyre_enabled.jpg"
+ },
+ {
+  "id": "nov_01_snowy_solar_panel_blocked",
+  "device": "solar lawn mower",
+  "instruction": "Mow the long lawn using solar power",
+  "state": "blocked",
+  "img": "/static/robot/nov_01_snowy_solar_panel_blocked.jpg"
+ },
+ {
+  "id": "nov_01_snowy_solar_panel_enabled",
+  "device": "solar lawn mower",
+  "instruction": "Mow the long lawn using solar power",
+  "state": "enabled",
+  "img": "/static/robot/nov_01_snowy_solar_panel_enabled.jpg"
+ },
+ {
+  "id": "nov_04_kinked_garden_hose_blocked",
+  "device": "garden watering robot",
+  "instruction": "Water the dry flower bed through the hose",
+  "state": "blocked",
+  "img": "/static/robot/nov_04_kinked_garden_hose_blocked.jpg"
+ },
+ {
+  "id": "nov_04_kinked_garden_hose_enabled",
+  "device": "garden watering robot",
+  "instruction": "Water the dry flower bed through the hose",
+  "state": "enabled",
+  "img": "/static/robot/nov_04_kinked_garden_hose_enabled.jpg"
+ }
+]

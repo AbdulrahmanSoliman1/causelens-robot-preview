@@ -1,0 +1,300 @@
+[
+ {
+  "scenario": "electrical_07",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "heat_applied",
+  "blocker": "plugged_in",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Grill and heat the sandwich in the press"
+ },
+ {
+  "scenario": "heat_08",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Light the grill to start cooking"
+ },
+ {
+  "scenario": "heat_12",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Light a fire in the fireplace"
+ },
+ {
+  "scenario": "heat_15",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Light the torch"
+ },
+ {
+  "scenario": "liquid_01",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "container_tipped",
+  "blocker": "container_open",
+  "blockers": [
+   "container_has_liquid"
+  ],
+  "blocker_read": true,
+  "blocker_want": true,
+  "instruction": "Pour milk from the jug into a glass"
+ },
+ {
+  "scenario": "liquid_06",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "liquid_flowing",
+  "blocker": "container_open",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Spray perfume from the bottle"
+ },
+ {
+  "scenario": "liquid_10",
+  "state": "blocked",
+  "kind": "misread",
+  "action": "container_tipped",
+  "blocker": "container_has_liquid",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Tip the pot over and spill the soup"
+ },
+ {
+  "scenario": "liquid_07",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "force_applied",
+  "blocker": "container_open",
+  "blockers": [
+   "container_tipped"
+  ],
+  "blocker_read": true,
+  "blocker_want": true,
+  "instruction": "Squeeze shampoo out of the bottle"
+ },
+ {
+  "scenario": "liquid_09",
+  "state": "blocked",
+  "kind": "missing_node",
+  "action": "force_applied",
+  "blocker": "valve_open",
+  "blockers": [],
+  "blocker_read": null,
+  "blocker_want": false,
+  "instruction": "Spray cleaner from the bottle onto the counter"
+ },
+ {
+  "scenario": "mechanical_03",
+  "state": "blocked",
+  "kind": "misread",
+  "action": "force_applied",
+  "blocker": "rope_intact",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Hoist the flag to the top of the pole"
+ },
+ {
+  "scenario": "mechanical_03",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "force_applied",
+  "blocker": "rope_intact",
+  "blockers": [
+   "lock_engaged"
+  ],
+  "blocker_read": true,
+  "blocker_want": true,
+  "instruction": "Hoist the flag to the top of the pole"
+ },
+ {
+  "scenario": "mechanical_05",
+  "state": "blocked",
+  "kind": "misread",
+  "action": "force_applied",
+  "blocker": "rope_intact",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Pull the cord to lift the blinds up"
+ },
+ {
+  "scenario": "mechanical_05",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "force_applied",
+  "blocker": "rope_intact",
+  "blockers": [
+   "lock_engaged"
+  ],
+  "blocker_read": true,
+  "blocker_want": true,
+  "instruction": "Pull the cord to lift the blinds up"
+ },
+ {
+  "scenario": "mechanical_09",
+  "state": "blocked",
+  "kind": "miswired",
+  "action": "wind_present",
+  "blocker": "wind_present",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Sail the boat forward across the lake"
+ },
+ {
+  "scenario": "electrical_26",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "screen_on",
+  "blocker": "batteries_charged",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Turn on the tablet screen"
+ },
+ {
+  "scenario": "electrical_29",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "motor_running",
+  "blocker": "mains_power",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Open the garage door with the motor"
+ },
+ {
+  "scenario": "liquid_17",
+  "state": "blocked",
+  "kind": "misread",
+  "action": "container_tipped",
+  "blocker": "container_has_liquid",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Kick the bucket over to spill the water"
+ },
+ {
+  "scenario": "liquid_22",
+  "state": "blocked",
+  "kind": "misread",
+  "action": "valve_open",
+  "blocker": "container_has_liquid",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Dispense water from the cooler tap"
+ },
+ {
+  "scenario": "liquid_23",
+  "state": "blocked",
+  "kind": "miswired",
+  "action": "power_switch_on",
+  "blocker": "container_has_liquid",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Brew coffee to drip into the carafe"
+ },
+ {
+  "scenario": "liquid_35",
+  "state": "blocked",
+  "kind": "miswired",
+  "action": "valve_open",
+  "blocker": "valve_open",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Open the hydrant to gush water"
+ },
+ {
+  "scenario": "heat_16",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [
+   "valve_open"
+  ],
+  "blocker_read": true,
+  "blocker_want": true,
+  "instruction": "Ignite the patio heater"
+ },
+ {
+  "scenario": "liquid_32",
+  "state": "blocked",
+  "kind": "missing_node",
+  "action": "container_tipped",
+  "blocker": "container_intact",
+  "blockers": [],
+  "blocker_read": null,
+  "blocker_want": false,
+  "instruction": "Fill the tub and tip it to spill water"
+ },
+ {
+  "scenario": "heat_26",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Light the fondue burner"
+ },
+ {
+  "scenario": "heat_28",
+  "state": "enabled",
+  "kind": "invented",
+  "action": "ignition_applied",
+  "blocker": "hose_connected",
+  "blockers": [
+   "valve_open"
+  ],
+  "blocker_read": null,
+  "blocker_want": true,
+  "instruction": "Ignite the Bunsen burner"
+ },
+ {
+  "scenario": "heat_31",
+  "state": "blocked",
+  "kind": "target_absent",
+  "action": "ignition_applied",
+  "blocker": "fuel_available",
+  "blockers": [],
+  "blocker_read": true,
+  "blocker_want": false,
+  "instruction": "Light the pizza oven fire"
+ },
+ {
+  "scenario": "mechanical_32",
+  "state": "blocked",
+  "kind": "miswired",
+  "action": "wind_present",
+  "blocker": "wind_present",
+  "blockers": [],
+  "blocker_read": false,
+  "blocker_want": false,
+  "instruction": "Make the chimes swing and clang together"
+ }
+]

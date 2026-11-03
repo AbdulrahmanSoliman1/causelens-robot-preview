@@ -1,0 +1,530 @@
+{
+ "b000": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b001": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b002": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b003": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b004": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b005": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b006": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b007": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b008": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b009": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b010": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b011": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b012": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b013": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b014": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b015": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b016": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b017": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b018": {
+  "outcome": 0,
+  "blocker_kept": 0
+ },
+ "b019": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b020": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b021": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b022": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b023": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b024": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b025": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b026": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b027": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b028": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b029": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b030": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b031": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b032": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b033": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b034": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b035": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b036": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b037": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b038": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b039": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b040": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b041": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b042": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b043": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b044": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b045": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b046": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b047": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b048": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b049": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b050": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b051": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b052": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b053": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b054": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b055": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b056": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b057": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b058": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b059": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b060": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b061": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b062": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b063": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b064": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b065": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b066": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b067": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b068": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b069": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b070": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b071": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b072": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b073": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b074": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b075": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b076": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b077": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b078": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b079": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b080": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b081": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b082": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b083": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b084": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b085": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b086": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b087": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b088": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b089": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b090": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b091": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b092": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b093": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b094": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b095": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b096": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b097": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b098": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b099": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b100": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b101": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b102": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b103": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b104": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b105": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b106": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b107": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b108": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b109": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b110": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b111": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b112": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b113": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b114": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b115": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b116": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b117": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b118": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b119": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b120": {
+  "outcome": 1,
+  "blocker_kept": 0
+ },
+ "b121": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b122": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b123": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b124": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b125": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b126": {
+  "outcome": 0,
+  "blocker_kept": 0
+ },
+ "b127": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b128": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b129": {
+  "outcome": 0,
+  "blocker_kept": 1
+ },
+ "b130": {
+  "outcome": 1,
+  "blocker_kept": 1
+ },
+ "b131": {
+  "outcome": 1,
+  "blocker_kept": 0
+ }
+}
